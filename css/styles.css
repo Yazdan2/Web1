@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #99f3bd;
+  padding-top: 50px;
+}
+
+.Bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  ;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 600px;
+}
+
+.up-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.hi {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.para {
+  display: inline-block;
+}
+
+.skills {
+  background-color: #d2f6c5;
+}
+
+.mountain {
+  height: 300px;
+}
+
+.mod {
+  background-color: #E4F9F5;
+}
+
+.ckc {
+  background-color: #d2f6c5;
+}
+
+.nice {
+  font-family: 'Grandstander', cursive;
+}
+
+.Hello {
+  background-color: #d2f6c5;
+}
+
+.EDU {
+  background-color: #99f3bd;
+}
+
+.obj {
+  background-color: #99f3bd;
+}
+
+.hobby {
+  background-color: #99f3bd;
+}
+
+.language {
+  background-color: #d2f6c5;
+}
+
+.CONTACT {
+  background-color: #99f3bd;
+}
+
+.link {
+  background-color: #d2f6c5;
+}
